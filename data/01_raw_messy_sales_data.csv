@@ -1,0 +1,201 @@
+transaction_id,transaction_timestamp,order_id,customer_full_name,customer_country,product_name,sales_channel,payment_method,currency_code,unit_price,quantity,discount_amount,tax_amount,shipping_amount,revenue
+TX-2024-000096,2024-04-25 11:44:09,ORD-2024-100095,Liam Wilson,United States,Nimbus Pro Laptop 14,retail,card,USD,1199,2,299.75,173.11,24.99,2296.35
+TX-2023-000016,05/05/2023,ORD-2023-100015,   ,United States,Nimbus Pro Laptop 14,retail,invoice,USD,1199,3,539.55,252.24,24.99,3334.68
+TX-2023-000031,2023-08-25 16:53:06,ORD-2023-100030,Chloe Davis,United Kingdom,Nimbus Pro Laptop 14,retail,card,GBP,1199,4,599.5,293.76,24.99,4515.25
+TX-2026-000159,2026-05-28 12:17:55,ORD-2026-100158,Chloe Davis,  United Kingdom  ,VERTEX ERGONOMIC CHAIR,retail,card,GBP,329,3,98.7,62.18,24.99,975.47
+TX-2025-000129,2025-12-17 16:31:20,ORD-2025-100128,Olivia Carter,United States,Vertex Ergonomic Chair,ecommerce,bank_transfer,USD,329,4,65.8,103.14,9.99,1363.33
+TX-2026-000116,2026-08-12 13:12:36,ORD-2026-100115,Noah Patel,United Kingdom,Nimbus Pro Laptop 14,ecommerce,invoice,GBP,1199,4,0.0,335.72,14.99,5146.71
+TX-2025-000070,2025-05-21 09:19:05,ORD-2025-100069,Mason Brown,Canada,Summit USB-C Dock,retail,card,CAD,149,3,0.0,31.29,9.99,488.28
+TX-2023-000171,2023-09-02 08:55:02,ORD-2023-100170,Sofia Martinez,Mexico,Nimbus Pro Laptop 14,ecommerce,wallet,MXN,1199,2,359.7,142.68,14.99,2195.97
+TX-2024-000175,2024-06-06 08:41:45,ORD-2024-100174,Chloe Davis,United Kingdom,Summit USB-C Dock,retail,invoice,GBP,149,5,37.25,49.54,9.99,767.28
+TX-2026-000046,06/06/2026,ORD-2026-100045,Mason Brown,Canada,Nimbus Pro Laptop 14,partner,bank_transfer,CAD,1199,4,479.6,302.15,14.99,4633.54
+TX-2024-000067,2024-07-10 08:43:14,ORD-2024-100066,Sofia Martinez,Mexico,Atlas Noise-Canceling Headphones,retail,wallet,MXN,219,2,43.8,27.59,14.99,436.78
+TX-2025-000183,2025-04-11 18:31:06,ORD-2025-100182,Chloe Davis,United Kingdom,Orchid CRM Subscription (Annual),retail,bank_transfer,GBP,549,1,54.9,34.59,0.0,528.69
+TX-2024-000166,17/06/2024,ORD-2024-100165,Mason Brown,  Canada  ,nimbus pro laptop 14,ecommerce,bank_transfer,CAD,1199,4,239.8,318.93,14.99,4890.12
+TX-2024-000079,2024-02-11 20:51:55,ORD-2024-100078,Chloe Davis,United Kingdom,Vertex Ergonomic Chair,retail,card,GBP,329,6,98.7,131.27,24.99,2031.56
+,2025-10-01 11:35:32,ORD-2025-100186,Sofia Martinez,  Mexico  ,Atlas Noise-Canceling Headphones,retail,wallet,MXN,219,3,32.85,43.69,9.99,FREE
+TX-2025-000178,2025-03-20 20:05:17,ORD-2025-100177,Ethan Nguyen,Canada,ORCHID CRM SUBSCRIPTION (ANNUAL),ecommerce,card,CAD,549,1,82.35,32.67,0.0,499.32
+TX-2025-000057,2025-07-15 17:15:02,ORD-2025-100056,Olivia Carter,United States,Atlas Noise-Canceling Headphones,partner,wallet,USD,219,5,136.88,79.04,14.99,1052.15
+TX-2023-000153,2023-03-13 16:26:52,ORD-2023-100152,Olivia Carter,United States,Orchid CRM Subscription (Annual),ecommerce,wallet,USD,549,1,0.0,45.29,0.0,594.29
+TX-2025-000083,2025-07-02 08:03:57,ORD-2025-100082,Sofia Martinez,Mexico,Orchid CRM Subscription (Annual),retail,wallet,MXN,549,1,54.9,34.59,0.0,528.69
+TX-2026-000069,05/12/2026,ORD-2026-100068,Ava Johnson,United States,Vertex Ergonomic Chair,partner,bank_transfer,USD,329,1,32.9,24.43,9.99,330.52
+,2024-11-23 09:07:47,ORD-2024-100124,Ava Johnson,United States,Summit USB-C Dock,ecommerce,bank_transfer,USD,149,4,59.6,44.25,19.99,#N/A
+TX-2026-000017,2026-10-01 14:19:01,ORD-2026-100016,Olivia Carter,United States,Atlas Noise-Canceling Headphones,ecommerce,card,USD,219,1,27.38,15.81,19.99,#N/A
+TX-2023-000149,2023-06-15 14:23:53,ORD-2023-100148,Ava Johnson,  United States  ,Vertex Ergonomic Chair,retail,wallet,USD,329,4,0.0,108.57,14.99,1439.56
+TX-2025-000094,2025-09-29 12:48:07,ORD-2025-100093,Mason Brown,Canada,Vertex Ergonomic Chair,partner,card,CAD,329,1,41.12,20.15,9.99,318.02
+TX-2025-000066,2025-11-15 09:10:13,ORD-2025-100065,Ethan Nguyen,Canada,Nimbus Pro Laptop 14,ecommerce,wallet,CAD,1199,1,59.95,79.73,9.99,1228.77
+TX-2023-000061,2023-10-20 12:36:27,ORD-2023-100060,Ava Johnson,United States,Nimbus Pro Laptop 14,partner,card,USD,1199,2,299.75,173.11,14.99,2286.35
+TX-2024-000085,2024-01-10 08:01:10,ORD-2024-100084,Ava Johnson,United States,SUMMIT USB-C DOCK,retail,wallet,USD,149,3,55.88,32.27,9.99,433.38
+TX-2025-000068,2025-04-11 10:43:08,ORD-2025-100067,Noah Patel,United Kingdom,Orchid CRM Subscription (Annual),partner,invoice,GBP,549,1,82.35,32.67,0.0,499.32
+TX-2023-000126,2023-07-09 12:56:01,ORD-2023-100125,Mason Brown,Canada,NIMBUS PRO LAPTOP 14,partner,invoice,CAD,1199,2,299.75,146.88,24.99,2270.12
+TX-2023-000133,2023-07-23 09:16:50,ORD-2023-100132,Ava Johnson,United States,Orchid CRM Subscription (Annual),partner,bank_transfer,USD,549,1,54.9,40.76,0.0,534.86
+TX-2026-000010,2026-04-14 16:14:59,ORD-2026-100009,Ethan Nguyen,Canada,Summit USB-C Dock,ecommerce,bank_transfer,CAD,149,3,44.7,28.16,14.99,445.45
+TX-2024-000019,2024-05-22 15:14:36,ORD-2024-100018,Sofia Martinez,Mexico,Vertex Ergonomic Chair,ecommerce,invoice,MXN,329,4,164.5,80.61,9.99,1242.1
+TX-2024-000056,2024-10-28 19:09:02,ORD-2024-100055,Liam Wilson,United States,Nimbus Pro Laptop 14,partner,wallet,USD,1199,5,899.25,420.4,14.99,5531.14
+TX-2023-000076,2023-03-17 08:16:45,ORD-2023-100075,Noah Patel,United Kingdom,Nimbus Pro Laptop 14,partner,invoice,GBP,1199,1,179.85,71.34,14.99,1105.48
+TX-2026-000151,2026-01-14 16:07:31,ORD-2026-100150,Chloe Davis,United Kingdom,Nimbus Pro Laptop 14,partner,invoice,GBP,1199,2,239.8,151.07,19.99,2329.26
+TX-2026-000105,2026-05-20 19:29:57,ORD-2026-100104,Olivia Carter,United States,summit usb-c dock,partner,wallet,USD,149,5,74.5,55.32,9.99,735.81
+TX-2026-000136,2026-01-25 12:29:51,ORD-2026-100135,Liam Wilson,United States,Nimbus Pro Laptop 14,ecommerce,card,USD,1199,1,149.88,86.55,19.99,1155.66
+TX-2026-000138,2026-09-28 15:43:28,ORD-2026-100137,   ,Canada,Orchid CRM Subscription (Annual),ecommerce,invoice,CAD,549,1,54.9,34.59,0.0,528.69
+TX-2024-000165,2024-08-24 13:20:53,ORD-2024-100164,Ava Johnson,United States,Summit USB-C Dock,retail,wallet,USD,149,3,67.05,31.35,19.99,431.29
+TX-2024-000077,2024-05-18 16:08:18,ORD-2024-100076,Ava Johnson,United States,Atlas Noise-Canceling Headphones,partner,invoice,USD,219,1,27.38,15.81,24.99,232.42
+TX-2023-000080,2023-09-23 08:15:34,ORD-2023-100079,Liam Wilson,United States,Summit USB-C Dock,ecommerce,card,USD,149,1,14.9,11.06,24.99,170.15
+TX-2025-000198,29/10/2025,ORD-2025-100197,Mason Brown,Canada,Orchid CRM Subscription (Annual),ecommerce,bank_transfer,CAD,549,1,0.0,38.43,0.0,587.43
+TX-2024-000039,2024-06-14 11:31:30,ORD-2024-100038,Chloe Davis,United Kingdom,Vertex Ergonomic Chair,retail,wallet,GBP,329,6,296.1,117.45,19.99,1815.34
+TX-2025-000025,2025-07-24 20:23:22,ORD-2025-100024,Olivia Carter,United States,Summit USB-C Dock,retail,invoice,USD,149,5,93.12,53.78,24.99,730.65
+TX-2024-000123,2024-06-13 18:22:10,ORD-2024-100122,Sofia Martinez,Mexico,ORCHID CRM SUBSCRIPTION (ANNUAL),ecommerce,invoice,MXN,549,1,27.45,36.51,0.0,558.06
+TX-2025-000196,2025-07-04 19:15:38,ORD-2025-100195,Noah Patel,United Kingdom,Nimbus Pro Laptop 14,retail,card,GBP,1199,4,239.8,318.93,24.99,4900.12
+TX-2023-000030,2023-11-01 19:32:56,ORD-2023-100029,Mason Brown,Canada,summit usb-c dock,retail,card,CAD,149,3,44.7,28.16,19.99,450.45
+TX-2025-000020,2025-04-02 18:00:08,ORD-2025-100019,Noah Patel,United Kingdom,Summit USB-C Dock,partner,wallet,GBP,149,3,22.35,29.73,24.99,479.37
+TX-2025-000144,2025-03-16 08:59:22,ORD-2025-100143,Liam Wilson,United States,Vertex Ergonomic Chair,retail,card,USD,329,2,0.0,54.29,14.99,#N/A
+TX-2023-000087,2023-07-03 10:37:08,ORD-2023-100086,Chloe Davis,United Kingdom,Atlas Noise-Canceling Headphones,retail,card,GBP,219,4,131.4,52.12,9.99,806.71
+TX-2023-000115,2023-06-15 08:54:02,ORD-2023-100114,Sofia Martinez,Mexico,summit usb-c dock,partner,bank_transfer,MXN,?,6,111.75,54.76,24.99,862.0
+TX-2024-000174,2024-03-21 08:40:54,ORD-2024-100173,Mason Brown,  Canada  ,vertex ergonomic chair,ecommerce,bank_transfer,CAD,329,3,98.7,62.18,14.99,965.47
+TX-2024-000006,2024-08-16 15:37:48,ORD-2024-100005,   ,Canada,Nimbus Pro Laptop 14,partner,wallet,CAD,1199,2,359.7,142.68,9.99,2190.97
+TX-2025-000127,2025-06-03 13:40:48,ORD-2025-100126,Chloe Davis,United Kingdom,Atlas Noise-Canceling Headphones,retail,invoice,GBP,219,1,10.95,14.56,9.99,232.6
+TX-2025-000118,2025-04-11 19:56:31,ORD-2025-100117,Mason Brown,Canada,Orchid CRM Subscription (Annual),retail,invoice,CAD,?,1,27.45,36.51,0.0,558.06
+TX-2024-000074,2024-02-18 13:40:46,ORD-2024-100073,Ethan Nguyen,Canada,Vertex Ergonomic Chair,retail,invoice,CAD,329,6,197.4,124.36,14.99,1915.95
+TX-2024-000141,2024-02-15 13:40:28,ORD-2024-100140,Ava Johnson,United States,Nimbus Pro Laptop 14,ecommerce,wallet,USD,1199,2,119.9,187.94,24.99,2491.03
+TX-2023-000099,2023-01-26 16:46:55,ORD-2023-100098,Sofia Martinez,Mexico,Vertex Ergonomic Chair,partner,card,MXN,329,1,41.12,20.15,19.99,#N/A
+TX-2023-000173,2023-08-05 19:36:16,ORD-2023-100172,Ava Johnson,United States,Orchid CRM Subscription (Annual),partner,wallet,USD,549,1,82.35,38.5,0.0,#N/A
+TX-2025-000097,2025-09-08 20:26:46,ORD-2025-100096,Olivia Carter,United States,Atlas Noise-Canceling Headphones,ecommerce,bank_transfer,USD,219,3,0.0,54.2,14.99,726.19
+TX-2025-000170,2025-08-30 12:12:26,ORD-2025-100169,Ethan Nguyen,Canada,Summit USB-C Dock,retail,bank_transfer,CAD,149,4,59.6,37.55,9.99,583.94
+TX-2024-000098,2024-11-10 12:37:22,ORD-2024-100097,Ethan Nguyen,Canada,Orchid CRM Subscription (Annual),partner,bank_transfer,CAD,549,1,54.9,34.59,0.0,528.69
+TX-2023-000032,2023-10-23 09:51:36,ORD-2023-100031,Liam Wilson,United States,Atlas Noise-Canceling Headphones,retail,bank_transfer,USD,219,6,131.4,97.56,19.99,1300.15
+TX-2023-000013,2023-11-08 16:54:04,ORD-2023-100012,Ava Johnson,United States,Orchid CRM Subscription (Annual),ecommerce,card,USD,549,1,68.62,39.63,0.0,520.01
+TX-2025-000036,2025-12-26 17:51:32,ORD-2025-100035,Noah Patel,United Kingdom,NIMBUS PRO LAPTOP 14,partner,bank_transfer,GBP,1199,5,599.5,377.69,14.99,5788.18
+TX-2023-000120,2023-06-03 11:47:03,ORD-2023-100119,Liam Wilson,  United States  ,Summit USB-C Dock,retail,wallet,USD,149,5,93.12,53.78,14.99,720.65
+TX-2025-000043,2025-09-06 11:14:59,ORD-2025-100042,Sofia Martinez,Mexico,Orchid CRM Subscription (Annual),partner,wallet,MXN,549,1,68.62,33.63,0.0,514.01
+TX-2026-000190,03/03/2026,ORD-2026-100189,Mason Brown,Canada,Summit USB-C Dock,retail,wallet,CAD,149,1,18.62,9.13,14.99,154.5
+TX-2025-000091,2025-12-08 17:10:54,ORD-2025-100090,Sofia Martinez,Mexico,Nimbus Pro Laptop 14,ecommerce,card,MXN,1199,5,0.0,419.65,14.99,6429.64
+TX-2024-000137,2024-02-02 17:04:17,ORD-2024-100136,Olivia Carter,United States,Atlas Noise-Canceling Headphones,retail,bank_transfer,USD,219,6,164.25,94.85,9.99,1254.59
+TX-2026-000052,2026-05-31 08:04:17,ORD-2026-100051,Noah Patel,  United Kingdom  ,Atlas Noise-Canceling Headphones,retail,card,GBP,219,2,21.9,29.13,14.99,460.22
+,2026-04-17 16:55:01,ORD-2026-100127,Liam Wilson,United States,Orchid CRM Subscription (Annual),ecommerce,invoice,USD,549,1,0.0,45.29,0.0,594.29
+TX-2025-000163,2025-05-12 17:04:28,ORD-2025-100162,Sofia Martinez,  Mexico  ,Orchid CRM Subscription (Annual),ecommerce,bank_transfer,MXN,549,1,68.62,33.63,0.0,514.01
+TX-2026-000042,2026-08-10 09:32:36,ORD-2026-100041,Ethan Nguyen,Canada,ATLAS NOISE-CANCELING HEADPHONES,partner,bank_transfer,CAD,219,6,0.0,91.98,24.99,1430.97
+TX-2026-000119,2026-02-15 20:10:35,ORD-2026-100118,   ,United Kingdom,Vertex Ergonomic Chair,partner,bank_transfer,GBP,329,4,0.0,92.12,14.99,1423.11
+TX-2024-000114,2024-01-24 14:47:47,ORD-2024-100113,Ethan Nguyen,Canada,Vertex Ergonomic Chair,partner,bank_transfer,CAD,329,4,0.0,92.12,24.99,1433.11
+TX-2024-000027,2024-03-03 16:01:16,ORD-2024-100026,Sofia Martinez,Mexico,Atlas Noise-Canceling Headphones,partner,card,MXN,219,2,0.0,30.66,19.99,488.65
+TX-2024-000140,2024-02-10 08:07:22,ORD-2024-100139,Noah Patel,United Kingdom,Summit USB-C Dock,ecommerce,invoice,GBP,149,3,67.05,26.6,9.99,416.54
+TX-2025-000101,2025-08-09 16:28:53,ORD-2025-100100,Ava Johnson,United States,Nimbus Pro Laptop 14,retail,card,USD,1199,4,0.0,395.67,14.99,5206.66
+TX-2023-000112,2023-04-09 13:06:31,ORD-2023-100111,Liam Wilson,United States,Atlas Noise-Canceling Headphones,partner,bank_transfer,USD,219,1,0.0,18.07,19.99,257.06
+TX-2025-000003,2025-06-07 15:36:45,ORD-2025-100002,Sofia Martinez,Mexico,Orchid CRM Subscription (Annual),ecommerce,card,MXN,549,1,0.0,38.43,0.0,587.43
+TX-2025-000078,2025-11-03 13:36:10,ORD-2025-100077,Mason Brown,Canada,Orchid CRM Subscription (Annual),ecommerce,wallet,CAD,549,1,27.45,36.51,0.0,558.06
+TX-2023-000047,2023-02-13 08:15:33,ORD-2023-100046,Chloe Davis,United Kingdom,Atlas Noise-Canceling Headphones,retail,bank_transfer,GBP,219,6,0.0,91.98,14.99,1420.97
+TX-2023-000188,2023-04-20 19:03:42,ORD-2023-100187,Noah Patel,United Kingdom,Orchid CRM Subscription (Annual),ecommerce,bank_transfer,GBP,549,1,68.62,33.63,0.0,514.01
+TX-2026-000192,2026-09-29 13:54:06,ORD-2026-100191,Liam Wilson,United States,Atlas Noise-Canceling Headphones,partner,wallet,USD,219,1,27.38,15.81,24.99,232.42
+TX-2025-000086,2025-10-26 19:56:32,ORD-2025-100085,Mason Brown,Canada,Nimbus Pro Laptop 14,ecommerce,wallet,CAD,1199,2,119.9,159.47,9.99,2447.56
+TX-2023-000162,2023-08-04 09:18:49,ORD-2023-100161,Ethan Nguyen,Canada,ATLAS NOISE-CANCELING HEADPHONES,ecommerce,card,CAD,219,3,98.55,39.09,9.99,607.53
+TX-2024-000037,2024-05-05 15:17:39,ORD-2024-100036,   ,United States,Atlas Noise-Canceling Headphones,partner,invoice,USD,219,6,65.7,102.98,14.99,1366.27
+TX-2023-000191,2023-09-10 10:43:15,ORD-2023-100190,Chloe Davis,United Kingdom,Nimbus Pro Laptop 14,partner,card,GBP,1199,2,119.9,159.47,9.99,#N/A
+TX-2025-000062,26/03/2025,ORD-2025-100061,Mason Brown,Canada,Atlas Noise-Canceling Headphones,partner,invoice,CAD,219,2,21.9,29.13,14.99,460.22
+TX-2024-000023,2024-06-22 13:07:56,ORD-2024-100022,Chloe Davis,United Kingdom,orchid crm subscription (annual),ecommerce,invoice,GBP,549,1,0.0,38.43,0.0,587.43
+TX-2024-000142,2024-08-27 09:59:03,ORD-2024-100141,Mason Brown,Canada,Atlas Noise-Canceling Headphones,ecommerce,invoice,CAD,219,5,136.88,67.07,14.99,1040.18
+,2025-08-26 08:19:07,ORD-2025-100101,Mason Brown,Canada,Atlas Noise-Canceling Headphones,partner,invoice,CAD,219,3,82.12,40.24,9.99,625.11
+TX-2023-000034,2023-10-28 20:33:44,ORD-2023-100033,Ethan Nguyen,Canada,Vertex Ergonomic Chair,partner,card,CAD,329,5,0.0,115.15,19.99,1780.14
+TX-2024-000012,2024-08-12 19:05:08,ORD-2024-100011,Noah Patel,United Kingdom,Atlas Noise-Canceling Headphones,ecommerce,wallet,GBP,219,1,0.0,15.33,24.99,259.32
+TX-2024-000195,2024-01-02 08:25:31,ORD-2024-100194,Sofia Martinez,Mexico,Summit USB-C Dock,retail,bank_transfer,MXN,149,1,22.35,8.87,24.99,160.51
+TX-2025-000160,2025-11-14 11:35:31,ORD-2025-100159,Liam Wilson,United States,Summit USB-C Dock,retail,card,USD,149,4,29.8,46.71,14.99,627.9
+TX-2026-000007,2026-02-21 20:24:55,ORD-2026-100006,Chloe Davis,  United Kingdom  ,Atlas Noise-Canceling Headphones,retail,card,GBP,219,2,0.0,30.66,14.99,483.65
+TX-2023-000028,2023-07-29 08:00:15,ORD-2023-100027,Noah Patel,  United Kingdom  ,Orchid CRM Subscription (Annual),ecommerce,card,GBP,549,1,82.35,32.67,0.0,499.32
+TX-2025-000121,2025-07-10 15:46:51,ORD-2025-100120,   ,United States,Nimbus Pro Laptop 14,ecommerce,card,USD,1199,2,359.7,168.16,14.99,2221.45
+TX-2026-000005,27/03/2026,ORD-2026-100004,Ava Johnson,United States,summit usb-c dock,ecommerce,bank_transfer,USD,149,4,0.0,49.17,14.99,660.16
+TX-2025-000033,2025-11-23 08:25:13,ORD-2025-100032,Olivia Carter,United States,Orchid CRM Subscription (Annual),partner,wallet,USD,549,1,27.45,43.03,0.0,564.58
+,2025-05-04 20:06:40,ORD-2025-100142,Chloe Davis,United Kingdom,Orchid CRM Subscription (Annual),partner,bank_transfer,GBP,549,1,0.0,38.43,0.0,587.43
+TX-2023-000146,2023-08-20 09:26:41,ORD-2023-100145,   ,Canada,Nimbus Pro Laptop 14,ecommerce,invoice,CAD,1199,2,239.8,151.07,14.99,2324.26
+TX-2026-000110,2026-12-31 08:12:48,ORD-2026-100109,Mason Brown,Canada,Summit USB-C Dock,retail,card,CAD,149,6,89.4,56.32,19.99,880.91
+TX-2026-000145,2026-12-24 09:05:41,ORD-2026-100144,Olivia Carter,United States,Summit USB-C Dock,partner,wallet,USD,149,2,37.25,21.51,24.99,307.25
+,2023-06-17 18:27:25,ORD-2023-100010,Sofia Martinez,Mexico,NIMBUS PRO LAPTOP 14,retail,invoice,MXN,1199,3,539.55,214.02,24.99,3296.46
+TX-2025-000063,2025-11-21 15:21:04,ORD-2025-100062,Chloe Davis,United Kingdom,Orchid CRM Subscription (Annual),retail,bank_transfer,GBP,?,1,54.9,34.59,0.0,528.69
+TX-2024-000113,2024-05-25 12:50:14,ORD-2024-100112,Olivia Carter,United States,Orchid CRM Subscription (Annual),partner,wallet,USD,549,1,68.62,39.63,0.0,520.01
+TX-2023-000147,2023-03-07 13:40:35,ORD-2023-100146,Sofia Martinez,Mexico,Atlas Noise-Canceling Headphones,retail,invoice,MXN,219,6,164.25,80.48,19.99,1250.22
+TX-2023-000167,2023-11-11 13:07:18,ORD-2023-100166,Chloe Davis,United Kingdom,Atlas Noise-Canceling Headphones,ecommerce,invoice,GBP,219,5,54.75,72.82,19.99,1133.06
+TX-2024-000001,2024-10-25 10:44:46,ORD-2024-100000,Olivia Carter,United States,nimbus pro laptop 14,partner,card,USD,1199,4,0.0,395.67,9.99,5201.66
+TX-2023-000199,2023-06-18 13:42:40,ORD-2023-100198,Chloe Davis,United Kingdom,Vertex Ergonomic Chair,ecommerce,invoice,GBP,329,6,296.1,117.45,9.99,1805.34
+TX-2024-000154,2024-02-04 09:08:39,ORD-2024-100153,Ethan Nguyen,Canada,VERTEX ERGONOMIC CHAIR,retail,wallet,CAD,329,5,164.5,103.64,19.99,1604.13
+TX-2026-000071,2026-05-30 12:02:55,ORD-2026-100070,Chloe Davis,United Kingdom,Nimbus Pro Laptop 14,retail,card,GBP,1199,1,119.9,75.54,9.99,1164.63
+TX-2025-000124,2025-02-23 15:32:04,ORD-2025-100123,Noah Patel,United Kingdom,Vertex Ergonomic Chair,retail,wallet,GBP,329,6,296.1,117.45,14.99,1810.34
+TX-2025-000065,2025-06-21 20:48:01,ORD-2025-100064,   ,United States,Summit USB-C Dock,partner,wallet,USD,149,1,18.62,10.76,19.99,161.13
+TX-2023-000045,2023-12-15 10:18:45,ORD-2023-100044,Ava Johnson,  United States  ,SUMMIT USB-C DOCK,partner,bank_transfer,USD,149,1,7.45,11.68,24.99,178.22
+TX-2023-000164,2023-09-30 15:35:18,ORD-2023-100163,Noah Patel,United Kingdom,Vertex Ergonomic Chair,partner,card,GBP,329,4,197.4,78.3,14.99,1211.89
+TX-2025-000029,2025-01-14 19:10:21,ORD-2025-100028,Ava Johnson,United States,Vertex Ergonomic Chair,partner,invoice,USD,329,1,0.0,27.14,14.99,371.13
+TX-2024-000041,2024-11-22 11:43:13,ORD-2024-100040,Olivia Carter,United States,Nimbus Pro Laptop 14,retail,wallet,USD,1199,4,719.4,336.32,9.99,4422.91
+,2024-11-09 08:01:54,ORD-2024-100108,Ava Johnson,United States,VERTEX ERGONOMIC CHAIR,ecommerce,bank_transfer,USD,329,3,98.7,73.28,24.99,986.57
+TX-2026-000156,2026-05-04 19:32:28,ORD-2026-100155,Noah Patel,United Kingdom,Nimbus Pro Laptop 14,ecommerce,invoice,GBP,1199,1,0.0,83.93,14.99,1297.92
+TX-2025-000157,2025-08-11 15:02:10,ORD-2025-100156,Ava Johnson,United States,Atlas Noise-Canceling Headphones,ecommerce,invoice,USD,219,3,82.12,47.43,24.99,647.3
+TX-2023-000026,01/08/2023,ORD-2023-100025,Ethan Nguyen,Canada,Nimbus Pro Laptop 14,ecommerce,card,CAD,1199,6,899.25,440.63,9.99,6745.37
+TX-2025-000024,2025-12-30 14:43:19,ORD-2025-100023,Liam Wilson,United States,Vertex Ergonomic Chair,ecommerce,card,USD,329,5,246.75,115.36,19.99,1533.6
+TX-2023-000185,02/07/2023,ORD-2023-100184,Olivia Carter,United States,Summit USB-C Dock,ecommerce,wallet,USD,149,5,74.5,55.32,14.99,740.81
+TX-2023-000148,2023-12-13 09:59:00,ORD-2023-100147,Noah Patel,United Kingdom,Orchid CRM Subscription (Annual),ecommerce,wallet,GBP,549,1,0.0,38.43,0.0,587.43
+TX-2026-000082,2026-11-19 13:20:05,ORD-2026-100081,Ethan Nguyen,Canada,Atlas Noise-Canceling Headphones,ecommerce,wallet,CAD,219,1,27.38,13.41,14.99,220.02
+TX-2025-000040,2025-01-16 09:27:58,ORD-2025-100039,   ,  United States  ,Summit USB-C Dock,retail,bank_transfer,USD,149,2,0.0,24.59,14.99,337.58
+TX-2026-000169,2026-08-23 09:49:49,ORD-2026-100168,   ,  United States  ,Vertex Ergonomic Chair,ecommerce,card,USD,329,6,246.75,142.5,9.99,1879.74
+TX-2024-000048,2024-03-08 08:30:34,ORD-2024-100047,Liam Wilson,United States,Orchid CRM Subscription (Annual),ecommerce,wallet,USD,549,1,54.9,40.76,0.0,534.86
+TX-2026-000095,2026-09-12 17:34:31,ORD-2026-100094,Chloe Davis,United Kingdom,Summit USB-C Dock,ecommerce,wallet,GBP,149,1,18.62,9.13,19.99,159.5
+TX-2026-000155,2026-06-17 08:47:36,ORD-2026-100154,Sofia Martinez,Mexico,Summit USB-C Dock,retail,card,MXN,149,3,44.7,28.16,19.99,450.45
+TX-2023-000044,2023-06-27 15:12:21,ORD-2023-100043,Noah Patel,  United Kingdom  ,vertex ergonomic chair,partner,bank_transfer,GBP,329,4,164.5,80.61,9.99,1242.1
+TX-2023-000139,2023-03-11 20:40:01,ORD-2023-100138,Sofia Martinez,Mexico,Vertex Ergonomic Chair,partner,invoice,MXN,329,3,123.38,60.45,19.99,944.06
+TX-2026-000004,2026-02-02 15:43:41,ORD-2026-100003,Noah Patel,United Kingdom,Vertex Ergonomic Chair,ecommerce,card,GBP,329,1,49.35,19.58,9.99,309.22
+TX-2024-000106,2024-04-18 17:03:49,ORD-2024-100105,Ethan Nguyen,Canada,Nimbus Pro Laptop 14,ecommerce,card,CAD,1199,4,599.5,293.76,9.99,4500.25
+TX-2023-000054,2023-08-06 18:11:59,ORD-2023-100053,Mason Brown,Canada,Vertex Ergonomic Chair,retail,card,CAD,329,1,16.45,21.88,14.99,349.42
+TX-2025-000134,2025-03-05 12:44:57,ORD-2025-100133,Mason Brown,Canada,vertex ergonomic chair,ecommerce,wallet,CAD,329,2,98.7,39.15,9.99,608.44
+TX-2023-000181,2023-02-07 14:37:20,ORD-2023-100180,Ava Johnson,United States,Nimbus Pro Laptop 14,partner,invoice,USD,1199,6,359.7,563.83,24.99,7423.12
+TX-2026-000179,2026-08-30 10:58:47,ORD-2026-100178,Sofia Martinez,Mexico,Vertex Ergonomic Chair,retail,wallet,MXN,329,4,131.6,82.91,24.99,1292.3
+TX-2024-000186,2024-08-03 10:56:44,ORD-2024-100185,Ethan Nguyen,  Canada  ,Nimbus Pro Laptop 14,ecommerce,invoice,CAD,1199,5,299.75,398.67,9.99,6103.91
+TX-2023-000050,2023-09-26 09:06:31,ORD-2023-100049,Ethan Nguyen,Canada,Summit USB-C Dock,partner,invoice,CAD,149,6,89.4,56.32,24.99,885.91
+TX-2023-000081,2023-06-23 20:06:36,ORD-2023-100080,Olivia Carter,United States,Nimbus Pro Laptop 14,partner,bank_transfer,USD,1199,4,719.4,336.32,19.99,4432.91
+TX-2026-000035,2026-11-26 12:45:12,ORD-2026-100034,Sofia Martinez,Mexico,SUMMIT USB-C DOCK,retail,bank_transfer,MXN,149,5,74.5,46.94,14.99,732.43
+TX-2026-000008,2026-01-26 20:57:48,ORD-2026-100007,Liam Wilson,United States,Orchid CRM Subscription (Annual),partner,card,USD,549,1,0.0,45.29,0.0,594.29
+TX-2025-000111,2025-03-15 15:06:09,ORD-2025-100110,Chloe Davis,United Kingdom,Nimbus Pro Laptop 14,retail,wallet,GBP,1199,5,0.0,419.65,19.99,6434.64
+TX-2023-000092,2023-03-27 10:25:22,ORD-2023-100091,Noah Patel,United Kingdom,Atlas Noise-Canceling Headphones,retail,invoice,GBP,219,6,131.4,82.78,9.99,1275.37
+TX-2026-000084,2026-01-25 13:53:23,ORD-2026-100083,   ,United Kingdom,Vertex Ergonomic Chair,ecommerce,wallet,GBP,329,2,0.0,46.06,19.99,724.05
+TX-2023-000177,2023-03-06 17:01:21,ORD-2023-100176,Olivia Carter,United States,Atlas Noise-Canceling Headphones,retail,card,USD,219,5,136.88,79.04,9.99,1047.15
+TX-2024-000182,2024-02-22 08:06:25,ORD-2024-100181,   ,  Canada  ,ATLAS NOISE-CANCELING HEADPHONES,ecommerce,card,CAD,219,4,43.8,58.25,24.99,915.44
+TX-2026-000090,2026-06-21 19:42:34,ORD-2026-100089,Ethan Nguyen,Canada,Summit USB-C Dock,partner,bank_transfer,CAD,149,2,0.0,20.86,24.99,343.85
+TX-2026-000009,2026-06-21 11:44:57,ORD-2026-100008,Olivia Carter,United States,Vertex Ergonomic Chair,retail,invoice,USD,329,4,197.4,92.28,24.99,1235.87
+TX-2026-000014,2026-02-16 18:25:53,ORD-2026-100013,Mason Brown,Canada,Vertex Ergonomic Chair,partner,invoice,CAD,329,3,98.7,62.18,19.99,970.47
+TX-2025-000060,2025-05-27 09:19:52,ORD-2025-100059,Noah Patel,United Kingdom,SUMMIT USB-C DOCK,ecommerce,wallet,GBP,149,2,29.8,18.77,9.99,296.96
+TX-2025-000172,2025-11-15 11:14:09,ORD-2025-100171,Noah Patel,United Kingdom,Atlas Noise-Canceling Headphones,partner,card,GBP,219,4,131.4,52.12,19.99,816.71
+TX-2023-000132,2023-09-20 19:24:16,ORD-2023-100131,   ,United Kingdom,atlas noise-canceling headphones,partner,card,GBP,219,3,98.55,39.09,24.99,622.53
+TX-2025-000018,2025-10-08 09:04:23,ORD-2025-100017,Ethan Nguyen,Canada,Orchid CRM Subscription (Annual),retail,bank_transfer,CAD,549,1,27.45,36.51,0.0,558.06
+TX-2023-000073,2023-08-13 10:56:20,ORD-2023-100072,Olivia Carter,United States,ORCHID CRM SUBSCRIPTION (ANNUAL),ecommerce,bank_transfer,USD,549,1,54.9,40.76,0.0,534.86
+TX-2026-000176,2026-10-21 14:46:06,ORD-2026-100175,Liam Wilson,United States,Nimbus Pro Laptop 14,ecommerce,bank_transfer,USD,1199,2,359.7,168.16,19.99,#N/A
+TX-2025-000135,2025-08-01 13:04:18,ORD-2025-100134,Chloe Davis,United Kingdom,Summit USB-C Dock,partner,bank_transfer,GBP,149,3,22.35,29.73,24.99,479.37
+TX-2024-000168,2024-05-30 12:28:38,ORD-2024-100167,Liam Wilson,United States,Orchid CRM Subscription (Annual),partner,bank_transfer,USD,549,1,82.35,38.5,0.0,505.15
+TX-2023-000184,2023-09-24 08:16:12,ORD-2023-100183,Liam Wilson,United States,Vertex Ergonomic Chair,partner,invoice,USD,329,1,49.35,23.07,14.99,317.71
+TX-2024-000064,2024-12-31 13:47:54,ORD-2024-100063,Liam Wilson,United States,vertex ergonomic chair,retail,invoice,USD,329,1,32.9,24.43,9.99,330.52
+TX-2023-000055,2023-07-20 17:14:33,ORD-2023-100054,Chloe Davis,United Kingdom,summit usb-c dock,ecommerce,invoice,GBP,149,4,89.4,35.46,9.99,552.05
+TX-2025-000108,2025-05-02 14:15:41,ORD-2025-100107,Noah Patel,United Kingdom,Orchid CRM Subscription (Annual),retail,card,GBP,549,1,68.62,33.63,0.0,514.01
+TX-2025-000051,2025-10-24 10:22:49,ORD-2025-100050,Sofia Martinez,Mexico,Nimbus Pro Laptop 14,retail,bank_transfer,MXN,1199,5,299.75,398.67,9.99,6103.91
+TX-2023-000197,2023-05-18 10:20:18,ORD-2023-100196,Ava Johnson,United States,Atlas Noise-Canceling Headphones,ecommerce,invoice,USD,219,3,82.12,47.43,19.99,642.3
+TX-2023-000059,2023-09-07 15:08:33,ORD-2023-100058,Sofia Martinez,Mexico,Vertex Ergonomic Chair,partner,bank_transfer,MXN,329,4,131.6,82.91,9.99,FREE
+TX-2025-000049,2025-10-23 12:22:43,ORD-2025-100048,Olivia Carter,United States,VERTEX ERGONOMIC CHAIR,partner,invoice,USD,329,5,164.5,122.14,19.99,1622.63
+TX-2026-000089,2026-09-08 18:51:36,ORD-2026-100088,Olivia Carter,United States,Vertex Ergonomic Chair,ecommerce,wallet,USD,329,4,131.6,97.71,24.99,1307.1
+TX-2023-000022,2023-12-27 10:45:15,ORD-2023-100021,Mason Brown,Canada,Atlas Noise-Canceling Headphones,retail,bank_transfer,CAD,219,2,21.9,29.13,9.99,455.22
+TX-2026-000058,2026-02-19 11:41:16,ORD-2026-100057,Ethan Nguyen,Canada,Orchid CRM Subscription (Annual),ecommerce,invoice,CAD,549,1,68.62,33.63,0.0,514.01
+TX-2026-000161,2026-08-23 08:36:59,ORD-2026-100160,Olivia Carter,United States,Nimbus Pro Laptop 14,ecommerce,invoice,USD,?,4,719.4,336.32,19.99,4432.91
+TX-2026-000193,2026-08-22 15:38:49,ORD-2026-100192,Olivia Carter,United States,Orchid CRM Subscription (Annual),partner,bank_transfer,USD,549,1,54.9,40.76,0.0,534.86
+TX-2023-000130,2023-11-08 17:30:33,ORD-2023-100129,Ethan Nguyen,Canada,Summit USB-C Dock,ecommerce,card,CAD,149,6,0.0,62.58,24.99,981.57
+TX-2024-000038,2024-12-29 08:31:39,ORD-2024-100037,Mason Brown,Canada,Orchid CRM Subscription (Annual),retail,invoice,CAD,549,1,0.0,38.43,0.0,587.43
+TX-2024-000158,2024-01-10 08:09:30,ORD-2024-100157,Mason Brown,Canada,orchid crm subscription (annual),partner,bank_transfer,CAD,549,1,54.9,34.59,0.0,528.69
+,2025-05-21 15:05:07,ORD-2025-100193,Ethan Nguyen,Canada,Vertex Ergonomic Chair,partner,invoice,CAD,329,6,197.4,124.36,24.99,1925.95
+TX-2025-000002,2025-01-18 18:36:33,ORD-2025-100001,Ethan Nguyen,Canada,Atlas Noise-Canceling Headphones,ecommerce,card,CAD,219,1,32.85,13.03,14.99,214.17
+TX-2026-000053,2026-02-13 09:07:27,ORD-2026-100052,Ava Johnson,United States,ORCHID CRM SUBSCRIPTION (ANNUAL),partner,invoice,USD,549,1,54.9,40.76,0.0,534.86
+TX-2024-000150,2024-09-24 15:52:20,ORD-2024-100149,Mason Brown,Canada,Summit USB-C Dock,ecommerce,wallet,CAD,149,1,0.0,10.43,24.99,184.42
+TX-2023-000131,2023-01-03 10:17:14,ORD-2023-100130,Sofia Martinez,Mexico,Nimbus Pro Laptop 14,partner,wallet,MXN,1199,2,359.7,142.68,9.99,2190.97
+TX-2023-000152,2023-03-04 19:29:56,ORD-2023-100151,Liam Wilson,United States,Atlas Noise-Canceling Headphones,ecommerce,invoice,USD,219,4,43.8,68.66,24.99,925.85
+TX-2026-000104,2026-04-05 09:38:38,ORD-2026-100103,Liam Wilson,United States,Vertex Ergonomic Chair,retail,bank_transfer,USD,329,2,98.7,46.14,19.99,625.43
+TX-2026-000100,2026-11-18 11:57:46,ORD-2026-100099,Noah Patel,United Kingdom,Summit USB-C Dock,partner,wallet,GBP,149,6,111.75,54.76,19.99,857.0
+TX-2025-000117,2025-04-29 14:15:22,ORD-2025-100116,Ava Johnson,United States,Atlas Noise-Canceling Headphones,partner,wallet,USD,219,3,65.7,48.78,19.99,FREE
+,2024-09-05 13:32:18,ORD-2024-100087,Liam Wilson,United States,Orchid CRM Subscription (Annual),ecommerce,bank_transfer,USD,549,1,27.45,43.03,0.0,564.58
+TX-2025-000075,2025-10-21 20:14:10,ORD-2025-100074,Sofia Martinez,  Mexico  ,Summit USB-C Dock,ecommerce,wallet,MXN,?,2,29.8,18.77,19.99,FREE
+TX-2023-000122,2023-12-24 14:13:30,ORD-2023-100121,Ethan Nguyen,Canada,Atlas Noise-Canceling Headphones,ecommerce,wallet,CAD,219,5,0.0,76.65,19.99,1191.64
+TX-2026-000200,2026-08-29 10:28:45,ORD-2026-100199,   ,United States,Summit USB-C Dock,ecommerce,bank_transfer,USD,149,1,0.0,12.29,9.99,171.28
+TX-2026-000021,2026-12-17 15:33:36,ORD-2026-100020,Ava Johnson,United States,Nimbus Pro Laptop 14,ecommerce,card,USD,1199,3,449.62,259.66,14.99,3422.03
+TX-2026-000189,2026-08-04 12:02:33,ORD-2026-100188,Ava Johnson,United States,Vertex Ergonomic Chair,retail,bank_transfer,USD,329,5,205.62,118.75,14.99,1573.12
+TX-2024-000072,2024-11-25 18:04:05,ORD-2024-100071,Liam Wilson,United States,Atlas Noise-Canceling Headphones,ecommerce,bank_transfer,USD,219,4,87.6,65.04,14.99,868.43
+TX-2025-000107,2025-10-03 20:24:28,ORD-2025-100106,Sofia Martinez,Mexico,Atlas Noise-Canceling Headphones,partner,bank_transfer,MXN,219,4,109.5,53.66,19.99,840.15
+TX-2026-000015,2026-04-02 16:18:17,ORD-2026-100014,Chloe Davis,United Kingdom,Summit USB-C Dock,retail,card,GBP,149,1,0.0,10.43,19.99,179.42
+TX-2026-000093,2026-02-17 08:55:27,ORD-2026-100092,Ava Johnson,United States,Orchid CRM Subscription (Annual),partner,bank_transfer,USD,549,1,0.0,45.29,0.0,594.29
+TX-2025-000180,2025-05-05 08:56:05,ORD-2025-100179,Noah Patel,United Kingdom,SUMMIT USB-C DOCK,retail,invoice,GBP,149,3,67.05,26.6,19.99,426.54
+TX-2024-000103,2024-07-04 15:02:32,ORD-2024-100102,Chloe Davis,United Kingdom,Orchid CRM Subscription (Annual),ecommerce,card,GBP,549,1,27.45,36.51,0.0,558.06
