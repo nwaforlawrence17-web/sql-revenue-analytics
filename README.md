@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-[Live Portfolio](https://chinua_data_portfolio.vercel.app/projects.html#project-sales-analysis) | [Interactive Dashboard](https://chinua_data_portfolio.vercel.app/revenue-analytics-saas/executive.html)
+[Live Portfolio](https://chinua-data-portfolio.vercel.app/projects.html#project-sales-analysis) | [Interactive Dashboard](https://chinua-data-portfolio.vercel.app/revenue-analytics-saas/executive.html)
 
 This project builds an **end‑to‑end automated data pipeline** that transforms messy retail sales data into reliable business insights.
 
