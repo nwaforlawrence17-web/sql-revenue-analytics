@@ -1,5 +1,7 @@
 # 🚀 SQL Automation & Revenue Analytics Pipeline
 
+`python` | `sql` | `postgresql` | `data-analytics` | `etl` | `dashboard`
+
 ## Project Overview
 
 [Live Portfolio](https://chinua_data_portfolio.vercel.app/projects.html#project-sales-analysis) | [Interactive Dashboard](https://chinua_data_portfolio.vercel.app/revenue-analytics-saas/executive.html)
@@ -16,11 +18,6 @@ This project builds an **end‑to‑end automated data pipeline** that transform
 - Recovered **15 % lost revenue** caused by data errors
 - Reduced reporting time from **4 hours → 10 seconds**
 - Enabled **real‑time month‑over‑month** growth tracking
-
----
-
-### 🏷️ Repository Tags
-`python` | `sql` | `postgresql` | `data-analytics` | `etl` | `dashboard`
 
 ---
 
